@@ -1,2 +1,2 @@
-# PythonVeri-ekmeSeleniumveBeautifulSoup
+# PythonVeriÇekmeSeleniumveBeautifulSoup
 Python Veri Çekme
